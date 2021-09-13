@@ -18,3 +18,7 @@ finished tutorail04
 Making function 'vote' that get the information and changes the database table that we made
 Using request.POST
 Using generic views
+
+210913_1334
+finished tutorail05
+Learned how to test the page and deal with the problems.
