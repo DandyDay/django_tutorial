@@ -12,3 +12,9 @@ Making superuser and give authority to superuser about some models in /admin/ pa
 finished tutorial03
 Making views.py that has the informations of pages that we show
 Using template to make same-designed pages that have different informations
+
+210913_1306
+finished tutorail04
+Making function 'vote' that get the information and changes the database table that we made
+Using request.POST
+Using generic views
