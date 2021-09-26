@@ -22,3 +22,5 @@ Using generic views
 210913_1334
 finished tutorail05
 Learned how to test the page and deal with the problems.
+
+Django project ideas:
